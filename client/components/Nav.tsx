@@ -6,7 +6,6 @@ function Nav() {
       <ul>
         <Link to="/">
         <img src="/Johnathanlogo.png" />
-          <li className='HomeTitle'>Home</li>
         </Link>
       </ul>
     </>
